@@ -1,11 +1,3 @@
-#### I was working on this instead of my finals, hope you appreciate it.
-
-<a href="https://www.buymeacoffee.com/HistidineDwarf" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
-Treat this less like the next dropbox and more like a "party trick" or a set of techniques to learn to pass data through compression. I do not endorse high volume use of this tool. I will also refrain from approving more commits to make the tool more convenient to use. There are several bugs that limit the use like the poor use of RAM limiting the size of files to about 100mb and they will remain. If you wish to fix these, you are on your own.
-
-If Youtube sends me a Cease and Desist I'll gladly shut this down.
-
 # Infinite-Storage-Glitch
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/96934612/219563410-7728447d-5482-41ae-a3ff-cf8446e16ab7.gif)
@@ -50,14 +42,6 @@ Trying to make anything work on other people's computers is a nightmare so I'll 
 4. Run `docker build -t isg .` to build the docker image.
 5. Run `docker run -it --rm -v ${PWD}:/home/Infinite-Storage-Glitch isg cargo build --release` to build the project.
 
-That's it. You will find the executable in the `target/release` directory. 
-
-ℹ️ **Please Note:** The binary will be a linux executable, so you will need to run it in a linux environment.
-If you do not have a linux environment, you can use [WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10) 
-or run it using the docker container called `isg` we just built **using a Linux shell or PowerShell**:
-
-```bash
-docker run -it --rm -v ${PWD}:/home/Infinite-Storage-Glitch isg ./target/release/isg_4real
 ```
 
 **Note:** If you are using `cmd` on Windows, you will need to use `%cd%` instead of `${PWD}`.
@@ -74,9 +58,6 @@ How to use
 
 ![2023-02-16_22-12](https://user-images.githubusercontent.com/96934612/219563769-c05370e9-3f40-406a-85b8-eca14a118be8.png)
 
-
-# Demo
-**Flashing lights warning !!!1!1** - [YouTube Link](https://www.youtube.com/watch?v=8I4fd_Sap-g)
 
 Try to use the program on this video and find the files hidden inside.
 
