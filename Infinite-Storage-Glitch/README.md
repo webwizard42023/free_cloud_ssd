@@ -41,11 +41,6 @@ How to use
 6. Use the dislodge option to get your files back from the downloaded video
 7. PROFIT
 
-![2023-02-16_22-12](https://user-images.githubusercontent.com/96934612/219563769-c05370e9-3f40-406a-85b8-eca14a118be8.png)
-
-
-Try to use the program on this video and find the files hidden inside.
-
 ***No it's not just a rick roll.***
 
 Explanation 4 nerds
